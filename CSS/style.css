@@ -7,13 +7,16 @@ p {
 }
 
 h3 {
-   color: rgb(207, 57, 52);
+   color: #CC0066;
 }
 
 h2 {
-   color: rgb(207, 57, 52));
+   color: #9900FF;
 }
 
+h1{
+   color: #3333CC;  
+}
 a {
   color: rgb(0, 0, 0);
 }
