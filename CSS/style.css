@@ -26,6 +26,7 @@ p {
 h3 {
    color: rgb(204, 0, 102);
    font-style: italic;
+   letter-spacing: .2em;
 }
 
 h2 {
