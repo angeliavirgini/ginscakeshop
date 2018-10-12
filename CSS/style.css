@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker')
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope')
+
+
 body {
    background-color: rgb(253, 220, 245);
 }
+
 
 /*
 h1, p {
@@ -9,7 +14,7 @@ h1, p {
 */
 
 h1 {
-   font-family: Georgia, Kodchasan, serif;
+   font-family: 'Permanent Marker', cursive;
    font-size: 20px;
    color: rgb(0, 0, 0);
 }
@@ -31,5 +36,6 @@ h2 {
 a {
   color: rgb(0, 0, 0);
   font-weight: bold;
+  font-family: 'Annie Use Your Telescope', cursive;
 }
 
