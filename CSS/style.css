@@ -40,3 +40,6 @@ a {
   font: bold 16px 'Annie Use Your Telescope', cursive;
 }
 
+input {
+   caret-color: rgb(253, 220, 245);
+}
