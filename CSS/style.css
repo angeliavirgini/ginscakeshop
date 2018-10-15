@@ -43,3 +43,7 @@ a {
 input {
    caret-color: rgb(253, 220, 245);
 }
+
+div {
+   background-color: rgb(255, 255, 255);
+}
