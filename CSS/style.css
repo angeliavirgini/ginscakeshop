@@ -85,14 +85,14 @@ input {
 
 .content {
    background-color: rgb(0, 0, 0);
-   width: 70%;
+   width: 50%;
    float: left;
-   height: 700px;
+   height: 450px;
 }
 
 .sidebar {
    background-color: rgb(0, 0, 0);
-   width: 30%;
+   width: 50%;
    float: right;
-   height: 700px;
+   height: 450px;
 }
