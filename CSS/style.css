@@ -16,7 +16,6 @@ h1, p {
 h1 {
    font-family: 'Permanent Marker', cursive;
    font-size: 30px;
-   color: rgb(0, 0, 0);
 }
 
 p {
@@ -30,22 +29,17 @@ h3 {
 }
 
 h2 {
-   color:rgb(255, 255, 255);
+   color: rgb(255, 255, 255);
    font-style: italic;
    text-shadow: 2px 2px 10px rgb(24, 27, 177);
 }
 
 a {
-  color: rgb(0, 0, 0);
   font: bold 16px 'Annie Use Your Telescope', cursive;
 }
 
 input {
    caret-color: rgb(253, 220, 245);
-}
-
-div {
-   background-color: rgb(106, 232, 236);
 }
 
 .scatola1 {
