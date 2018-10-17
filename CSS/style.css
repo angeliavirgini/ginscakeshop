@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 @import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
-
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 body {
    background-color: rgb(254, 220, 255);
@@ -14,7 +13,7 @@ h1, p {
 */
 
 h1 {
-   font-family: 'Permanent Marker', cursive;
+   font-family: 'Pacifico', cursive;
    font-size: 30px;
 }
 
