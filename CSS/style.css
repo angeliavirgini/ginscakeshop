@@ -88,8 +88,7 @@ input {
    width: 45%;
    float: left;
    height: 48px;
-   border: 2px;
-   border-color: rgb(194, 255, 175);
+   border: 2px rgb(194, 255, 175);
    padding-left: 10px;
    
 }
@@ -99,7 +98,6 @@ input {
    width: 45%;
    float: right;
    height: 448px;
-   border: 2px;
-   border-color: rgb(172, 249, 255);
+   border: 2px rgb(172, 249, 255);
    padding-left: 10px;
 }
