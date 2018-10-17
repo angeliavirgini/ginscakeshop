@@ -88,6 +88,8 @@ input {
    width: 50%;
    float: left;
    height: 450px;
+   border: 2px;
+   border-color: rgb(194, 255, 175);
 }
 
 .sidebar {
@@ -95,4 +97,6 @@ input {
    width: 50%;
    float: right;
    height: 450px;
+   border: 2px;
+   border-color: rgb(172, 249, 255);
 }
