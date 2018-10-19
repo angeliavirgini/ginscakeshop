@@ -109,21 +109,21 @@ input {
 
 .sinistra {
    background-color: rgb(0, 255, 76);
-   width: 33.33%;
+   width: 30%;
    height: 330;
    float: left;
 }
 
 .centro {
    background-color: rgb(255, 255, 255);
-   width: 33.33%;
+   width: 40%;
    height: 330;
    float: left;
 }
 
 .destra {
    background-color: rgb(255, 0, 0);
-   width: 33.33%;
+   width: 30%;
    height: 330;
    float: left;
 }
