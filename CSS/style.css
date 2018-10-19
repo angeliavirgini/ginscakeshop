@@ -124,6 +124,7 @@ input {
    width: 30%;
    height: 600;
    float: left;
+   text-align: center;
 }
 
 .centro {
@@ -131,6 +132,7 @@ input {
    width: 40%;
    height: 600;
    float: left;
+   text-align: center;
 }
 
 .destra {
@@ -138,5 +140,6 @@ input {
    width: 30%;
    height: 600;
    float: left;
+   text-align: center;
 }
 
