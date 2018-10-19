@@ -37,6 +37,10 @@ a {
   font: bold 16px 'Annie Use Your Telescope', cursive;
 }
 
+.io{
+   font-size: 22px
+}
+
 input {
    caret-color: rgb(253, 220, 245);
 }
