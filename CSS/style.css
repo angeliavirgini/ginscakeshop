@@ -25,6 +25,7 @@ h3 {
    color: rgb(204, 0, 102);
    font-style: italic;
    letter-spacing: .2em;
+   text-align: center;
 }
 
 h2 {
@@ -106,4 +107,24 @@ input {
    padding-left: 10px;
 }
 
+.sinistra {
+   background-color: ;
+   width: 33.33%;
+   height: 330;
+   float: left;
+}
+
+.centro {
+   background-color: ;
+   width: 33.33%;
+   height: 330;
+   float: left;
+}
+
+.destra {
+   background-color: ;
+   width: 33.33%;
+   height: 330;
+   float: left;
+}
 
