@@ -2,27 +2,26 @@
     float:left;
     width:25%;
     height:300px;
+    text-align:center;
 }
 
 .doll{
     float:left;
     width:25%;
     height:300px;
+    text-align:center;
 }
 
 .st{
     float:left;
     width:25%;
     height:300px;
+    text-align:center;
 }
 
 .fd{
     float:left;
     width:25%;
     height:300px;
-}
-
-.txt{
     text-align:center;
-    vertical-align: middle;
 }
