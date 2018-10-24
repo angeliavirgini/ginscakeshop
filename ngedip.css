@@ -1,0 +1,28 @@
+div{
+    width:100%;
+    height:500px;
+}
+
+.toy{
+    float:left;
+    width:25%;
+    height:300px;
+}
+
+.doll{
+    float:left;
+    width:25%;
+    height:300px;
+}
+
+.st{
+    float:left;
+    width:25%;
+    height:300px;
+}
+
+.fd{
+    float:left;
+    width:25%;
+    height:300px;
+}
