@@ -175,3 +175,15 @@ input {
     float: left;
     text-align: center;
 }
+
+.bello{
+   float: right;
+   width: 30%;
+   height: 800;
+}
+
+.dolce{
+   float: left;
+   width: 70%;
+   height: 800;
+}   
