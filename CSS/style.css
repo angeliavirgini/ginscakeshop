@@ -152,7 +152,7 @@ input {
 }
 
 
-.left{
+.left {
     background-color:rgb(32, 60, 185);
     width: 30%;
     height: 800;
@@ -160,7 +160,7 @@ input {
     text-align: center;
 }
 
-.ciuw{
+.ciuw {
     background-color:rgb(255, 255, 255);
     width: 40%;
     height: 800;
@@ -168,7 +168,7 @@ input {
     text-align: center;
 }
 
-.right{
+.right {
     background-color:rgb(255, 0, 0);
     width: 30%;
     height: 800;
@@ -176,14 +176,14 @@ input {
     text-align: center;
 }
 
-.bello{
-   float: right;
+.bello {
+   float: left;
    width: 30%;
    height: 800;
 }
 
-.dolce{
-   float: left;
+.dolce {
+   float: right;
    width: 70%;
    height: 800;
 }   
