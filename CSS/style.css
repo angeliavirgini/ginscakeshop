@@ -118,7 +118,8 @@ input {
    height: 350px;
    border: 2px rgb(194, 255, 175);
    padding-left: 10px;
-   
+   text-align: center;
+   align-items: center;
 }
 
 .sidebar {
@@ -128,6 +129,8 @@ input {
    height: 350px;
    border: 2px rgb(172, 249, 255);
    padding-left: 10px;
+   text-align: center;
+   align-items: center;
 }
 
 .sinistra {
