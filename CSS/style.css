@@ -112,7 +112,7 @@ input {
 }
 
 .content {
-   background-color: rgb(255,255,255)
+   background-color: rgb(255,255,255);
    width: 50%;
    float: left;
    height: 350px;
@@ -123,7 +123,7 @@ input {
 }
 
 .sidebar {
-   background-color: rgb(255,255,255)
+   background-color: rgb(255,255,255);
    width: 47%;
    float: right;
    height: 350px;
