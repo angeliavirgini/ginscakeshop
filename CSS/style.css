@@ -159,7 +159,7 @@ input {
 
 
 .left {
-    background-color:rgb(118, 149, 250);
+    background-color:rgb(63, 55, 64);
     width: 30%;
     height: 460px;
     float: left;
@@ -175,7 +175,7 @@ input {
 }
 
 .right {
-    background-color:rgb(63, 55, 64);
+    background-color: rgb(63, 55, 64);
     width: 30%;
     height: 460px;
     float: left;
