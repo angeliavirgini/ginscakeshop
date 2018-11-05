@@ -112,7 +112,7 @@ input {
 }
 
 .content {
-   background-color: rgb(255, 241, 194);
+   background-color: rgb(255,255,255)
    width: 50%;
    float: left;
    height: 350px;
@@ -123,7 +123,7 @@ input {
 }
 
 .sidebar {
-   background-color: rgb(156, 204, 195);
+   background-color: rgb(255,255,255)
    width: 47%;
    float: right;
    height: 350px;
@@ -134,7 +134,7 @@ input {
 }
 
 .sinistra {
-   background-color: rgb(127, 110, 127);
+   background-color:  rgb(255, 241, 194);
    width: 30%;
    height: 440px;
    float: left;
@@ -150,7 +150,7 @@ input {
 }
 
 .destra {
-   background-color: rgb(127, 110, 127);
+   background-color:  rgb(255, 241, 194);
    width: 30%;
    height: 440px;
    float: left;
@@ -159,7 +159,7 @@ input {
 
 
 .left {
-    background-color:rgb(63, 55, 64);
+    background-color: rgb(156, 204, 195);
     width: 30%;
     height: 460px;
     float: left;
@@ -175,7 +175,7 @@ input {
 }
 
 .right {
-    background-color: rgb(63, 55, 64);
+    background-color: rgb(156, 204, 195);
     width: 30%;
     height: 460px;
     float: left;
