@@ -57,6 +57,7 @@ h4 {
 
 a {
   font: bold 22px 'Annie Use Your Telescope', cursive;
+  color: rgb(127,21,84);
 }
 
 .io{
@@ -216,7 +217,7 @@ input {
 .uwa {
     text-decoration: none;
     font-size: 50px;
-    color: rgb(177,136,178);
+    color: rgb(127,21,84);
     font-family: 'Pacifico', cursive;
 }
 
